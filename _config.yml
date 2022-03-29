@@ -1,7 +1,11 @@
 # Site Settings
 name: 내 블로그임
 title: 내가 공부하는곳
+<<<<<<< HEAD
 description: 공부하자
+=======
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+>>>>>>> 9a822afe4c9b32e7a7819f2c6b561284d0fb24fa
   Thiago Rossener.
 tags:
   - blog
