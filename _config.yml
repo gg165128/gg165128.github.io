@@ -1,6 +1,6 @@
 # Site Settings
 name: 내 블로그임
-title: Jekflix | 내가 공부하는곳
+title: 내가 공부하는곳
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -9,19 +9,19 @@ tags:
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
-  - title: 자바
+  - title: about
     url: /about
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: gg165128@naver.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: gg165128
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
